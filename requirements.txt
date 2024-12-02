@@ -1,0 +1,6 @@
+flask
+flask-sqlalchemy
+flask-mail
+openai
+python-dotenv
+psycopg2
